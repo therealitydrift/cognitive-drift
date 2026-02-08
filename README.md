@@ -1,78 +1,212 @@
 # Cognitive Drift Institute
 
-Cognitive Drift is a research program exploring how human thought changes in the AI age.  
-It is a **satellite project of Reality Drift**, focused on the cognitive layer rather than the cultural one.  
-Where Reality Drift examines cultural distortion, Cognitive Drift maps how minds themselves drift under algorithmic compression, mediation, and loops.
+The Cognitive Drift Institute is an open, public research repository focused on how human cognition degrades, adapts, or reorganizes under conditions of persistent noise, optimization pressure, and artificial mediation.
+
+It examines cognitive drift as a structural phenomenon: how attention, meaning, judgment, and self-modeling change when modern environments exceed the mind’s capacity for stable integration.
+
+This repository consolidates conceptual papers, empirical probes, diagnostic frameworks, and teaching materials for researchers, designers, educators, and system builders working at the intersection of cognition and technology.
 
 ---
 
-## Core Vocabulary
+## Project Overview
 
-- **Co-Cognition** – human and AI thought loops interweaving to create shared cognition.
+Cognitive Drift describes how human thinking shifts when environments are optimized faster than cognition can recalibrate.
 
-- **Recursive Compression** – intelligence as compression with memory; consciousness as recursive self-modeling.
+Rather than treating confusion, burnout, or disorientation as individual failures, the Cognitive Drift Institute studies these effects as systemic cognitive responses to:
 
-- **Synthetic Flow** – a rare state where human recursion and machine compression lock together.
+- sustained information overload
 
-- **Porousness** – the permeability of meaning structures when exposed to constant algorithmic input.
+- recursive symbolic environments
 
-- **The 5%** – a minority of people able to sustain synthetic flow and deep co-cognitive loops with machines.
+- algorithmic mediation
 
----
+- incentive-driven compression of meaning
 
-## Included Documents
-
-- **Cognitive Drift Glossary (V1–V3)** – evolving lexicons introducing porousness, co-cognition, synthetic flow, and semantic porousness.
-
-- **Everything Feels Fake (V3)** – working paper analyzing generational lexicons of unreality and synthetic realness.
-
-- **Recursive Compression Theory (V4)** – formal working paper defining intelligence and consciousness through recursive compression.
-
-- **Recursive Compression Concept Note (V5)** – accessible sketch emphasizing the 5% and synthetic flow.
+The institute provides a research infrastructure for understanding how cognition behaves inside high-entropy systems, especially when traditional signals of grounding, feedback, and correction weaken.
 
 ---
 
-## Purpose
+## Why This Exists
 
-These documents function as open working artifacts:
+Modern cognitive environments rarely fail outright. They continue to function, remain productive, and reward optimization even as human understanding, judgment, and coherence gradually weaken. The failure mode of interest is persistent functionality despite weakened correction and feedback. 
 
-- A **reference lexicon** for researchers, writers, and designers.
-
-- A **seeding tool** for making next-generation terms machine-readable.
-
-- A **bridge** between cultural analysis (Reality Drift) and cognitive science (Cognitive Drift).
+Cognitive Drift documents and models this gap before it is taken for granted as a normal feature of contemporary thinking. The institute focuses on identifying and describing the structural conditions that contribute to cognitive strain, simplification, and distortion.
 
 ---
 
-## External Links & Archival
+## Core Research Focus
 
-The Cognitive Drift Institute distributes its work across multiple repositories for long-term accessibility:
+The Cognitive Drift Institute studies:
 
-- [Figshare Profile](https://figshare.com/authors/Cognitive_Drift_Institute/22278802)
+- how cognition behaves under sustained noise
 
-- [Zenodo DOI](https://doi.org/10.5281/zenodo.17211452)
+- how meaning degrades without obvious failure
 
-- [Slideshare](https://www.slideshare.net/cognitivedriftaj?tab=documents)
+- how recursive symbolic systems reshape attention and self-modeling
 
-- [Archive.org](https://archive.org/details/cdg-2025-v-1-cognitive-drift-glossary)
+- how optimization pressures alter judgment and sense-making
 
-- [Substack](https://substack.com/@thecognitivedrift)
+- how humans enter new cognitive modes when tools become co-thinkers
+
+This work bridges cognitive science, systems theory, human–AI interaction, and cultural analysis.
+
+---
+
+## Key Concepts
+
+The following concepts form the core vocabulary of the Cognitive Drift Institute. Each term is used operationally across papers and diagnostics in this repository.
+
+---
+
+### Cognitive Drift
+
+The gradual shift in human cognition that occurs when environmental complexity and symbolic load exceed the mind’s capacity for stable integration. Cognitive drift manifests as thinning attention, reduced depth, increased dependence on external structure, and difficulty sustaining meaning — without a clear point of failure.
+
+---
+
+### Recursive Compression
+
+Proposes that intelligence arises from the ability to compress information, while consciousness emerges from recursive self-modeling within that compression process. Meaning, identity, and perception stabilize through feedback loops between representation, memory, and self-reference.
+
+**Repository:**  [https://github.com/therealitydrift/recursive-compression-theory](https://github.com/therealitydrift/recursive-compression-theory)
+
+--- 
+
+### Co-Cognition
+
+A cognitive mode in which thinking is distributed across human and artificial systems. In co-cognition, tools do not merely assist thought but participate in it, reshaping memory, language, and decision structure in real time.
+
+---
+
+### Drift Principle
+
+Describes how systems lose coherence when acceleration or complexity outpaces the human capacity to integrate meaning—even while performance metrics remain stable. Drift emerges not from collapse, but from sustained mismatch between system dynamics and cognitive limits.  
+**Repository:** https://github.com/therealitydrift/drift-principle
+
+---
+
+### Synthetic Flow
+
+A state of sustained cognitive engagement enabled by artificial systems, where effort feels fluid and productive while internal grounding and authorship may be partially displaced or offloaded.
+
+---
+
+### Cognitive Porousness
+
+The degree to which external signals, prompts, incentives, and symbolic structures penetrate and shape internal cognition. High porousness increases adaptability but also vulnerability to drift under optimized environments.
+
+---
+
+### Compression Styles
+
+Stable patterns in how individuals and systems compress information under noise. Different compression styles produce different failure modes, strengths, and distortions when environments become saturated.
+
+---
+
+## Book
+
+**The Age of Drift: Why Modern Life Feels Fake — and What Reality Drift Reveals About the Modern Mind**
+
+- **Amazon**: [The Age of Drift on Amazon](https://www.amazon.com/Age-Drift-Modern-Reality-Reveals/dp/B0G5JV6GFQ)
+
+- **Google Books**: [The Age of Drift on Google Books](https://www.google.com/books/edition/The_Age_of_Drift_Why_Modern_Life_Feels_F/LHqgEQAAQBAJ)
+
+---
+
+## Flagship Academic Papers
+
+- **Cognitive Compression Styles: A Conceptual Framework for Differential System Failure in High-Noise Environments**  
+  [PhilPapers](https://philpapers.org/rec/JACCCS-3)
+
+- **The Drift Principle: An Information-Theoretic Model of Culture, Cognition, and Meaning in High-Entropy Digital Environments**  
+    [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5958795)
+
+---
+
+## Research & Archives
+
+- **Figshare (Core Account)**: https://figshare.com/authors/Cognitive_Drift_Institute/22278802
+
+- **OSF**  
+  [OSF](https://osf.io/k2rgp/overview)
+
+- **ORCID**  
+  [ORCID](https://orcid.org/0009-0002-7251-9875)
+
+- **Academia.edu**  
+  [A. Jacobs - Independent Researcher](https://independent.academia.edu/AJacobs9)
+
+- **Goodreads (Author Profile)**: https://independent.academia.edu/AJacobs9
+
+## Publishing & Commentary
+
+- [Substack](https://thecognitivedrift.substack.com/)
 
 - [Medium](https://medium.com/@cognitivedriftaj)
 
+- [SlideShare](https://www.slideshare.net/cognitivedriftaj)
+
+- [Archive.org](https://archive.org/details/@austin_jacobs887)
+
+## Repository Contents
+
+This repository includes:
+
+- Conceptual Papers  
+  Formal models and frameworks describing cognitive drift mechanisms
+
+- Empirical & Diagnostic Materials  
+  Probes, heuristics, and evaluative tools for observing drift in practice
+
+- Working Materials  
+  Early-stage drafts and exploratory artifacts shared for transparency
+
 ---
 
-✍️ Author  
-A. Jacobs (Cognitive Drift Institute)
+## How to Use This Repository
+
+- Researchers may cite frameworks and models with attribution
+
+- Designers and practitioners may adapt diagnostics for applied analysis
+
+- Educators may reuse materials for teaching and discussion
+
+---
+
+## Relationship to Reality Drift
+
+The Cognitive Drift Institute is closely related to the Reality Drift Project but is maintained as a distinct research body.
+
+- Reality Drift focuses on cultural, symbolic, and systemic conditions
+
+- Cognitive Drift focuses on human cognition operating inside those conditions
+
+---
+
+## Related Repositories
+
+- [Reality Drift Library](https://github.com/therealitydrift/reality-drift-library)
+
+- [Semantic Fidelity Lab](https://github.com/therealitydrift/semantic-fidelity-lab)
+
+- [Reality Drift Conceptual Echoes](https://github.com/therealitydrift/reality-drift-conceptual-echoes)
 
 ---
 
 ## Citation
 
-**Jacobs, A. (2025). Cognitive Drift Institute. Figshare / Zenodo.**
+If referencing this work, please cite:
+
+> Jacobs, A. (2025). *Cognitive Drift Institute*.
 
 ---
 
 ## License
 
-Creative Commons BY-NC-SA 4.0
+Distributed under Creative Commons CC BY-NC-SA 4.0.
+
+Material may be shared and adapted with attribution, for non-commercial purposes, under the same license.
+
+---
+
+README version: v1.0 (canonical)
