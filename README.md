@@ -30,7 +30,7 @@ The institute provides a research infrastructure for understanding how cognition
 
 ## Why This Exists
 
-Modern cognitive environments rarely fail outright. They continue to function, remain productive, and reward optimization even as human understanding, judgment, and coherence gradually weaken. The failure mode of interest is persistent functionality despite weakened correction and feedback. 
+Modern cognitive environments rarely fail outright. They continue to function, remain productive, and reward optimization even as human understanding, judgment, and coherence gradually weaken. The failure mode of interest is persistent functionality despite weakened correction and feedback.
 
 Cognitive Drift documents and models this gap before it is taken for granted as a normal feature of contemporary thinking. The institute focuses on identifying and describing the structural conditions that contribute to cognitive strain, simplification, and distortion.
 
@@ -70,9 +70,9 @@ The gradual shift in human cognition that occurs when environmental complexity a
 
 Proposes that intelligence arises from the ability to compress information, while consciousness emerges from recursive self-modeling within that compression process. Meaning, identity, and perception stabilize through feedback loops between representation, memory, and self-reference.
 
-**Repository:**  [https://github.com/therealitydrift/recursive-compression-theory](https://github.com/therealitydrift/recursive-compression-theory)
+**Repository:** [GitHub - therealitydrift/recursive-compression-theory: Canonical definition of the term “Recursive Compression Theory&quot;](https://github.com/therealitydrift/recursive-compression-theory)
 
---- 
+---
 
 ### Co-Cognition
 
@@ -83,7 +83,7 @@ A cognitive mode in which thinking is distributed across human and artificial sy
 ### Drift Principle
 
 Describes how systems lose coherence when acceleration or complexity outpaces the human capacity to integrate meaning—even while performance metrics remain stable. Drift emerges not from collapse, but from sustained mismatch between system dynamics and cognitive limits.  
-**Repository:** https://github.com/therealitydrift/drift-principle
+**Repository:** [GitHub - therealitydrift/drift-principle: Canonical definition of the term “Drift Principle”](https://github.com/therealitydrift/drift-principle)
 
 ---
 
@@ -121,7 +121,7 @@ Stable patterns in how individuals and systems compress information under noise.
   [PhilPapers](https://philpapers.org/rec/JACCCS-3)
 
 - **The Drift Principle: An Information-Theoretic Model of Culture, Cognition, and Meaning in High-Entropy Digital Environments**  
-    [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5958795)
+  [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5958795)
 
 ---
 
@@ -138,7 +138,7 @@ Stable patterns in how individuals and systems compress information under noise.
 - **Academia.edu**  
   [A. Jacobs - Independent Researcher](https://independent.academia.edu/AJacobs9)
 
-- **Goodreads (Author Profile)**: https://independent.academia.edu/AJacobs9
+- **Goodreads (Author Profile)**: [A. Jacobs - Independent Researcher](https://independent.academia.edu/AJacobs9)
 
 ## Publishing & Commentary
 
