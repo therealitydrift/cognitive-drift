@@ -1,8 +1,10 @@
 # Cognitive Drift Institute
 
-The Cognitive Drift Institute is an open, public research repository focused on how human cognition degrades, adapts, or reorganizes under conditions of persistent noise, optimization pressure, and artificial mediation.
+The Cognitive Drift Institute is an open, public research repository authored by A. Jacobs, focused on how human cognition degrades, adapts, or reorganizes under conditions of persistent noise, optimization pressure, and artificial mediation.
 
-It examines cognitive drift as a structural phenomenon: how attention, meaning, judgment, and self-modeling change when modern environments exceed the mind’s capacity for stable integration.
+The materials collected here were developed between 2023 and 2026 as part of the Reality Drift framework, a research framework for analyzing how meaning, cognition, and culture deform under modern symbolic systems.
+
+The project examines cognitive drift as a structural phenomenon: how attention, meaning, judgment, and self-modeling change when modern environments exceed the mind’s capacity for stable integration.
 
 This repository consolidates conceptual papers, empirical probes, diagnostic frameworks, and teaching materials for researchers, designers, educators, and system builders working at the intersection of cognition and technology.
 
